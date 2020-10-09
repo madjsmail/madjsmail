@@ -1,9 +1,11 @@
 # Smail Abd El Madjid
 
 Computer Science Student Computer science student, open source developer & JS lover ❤️, Interesting in AI,Web & everything related with JS.
-Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, 😋😋
+
 
 ## About
+Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, 😋😋
+
 
 - **Learning :** Full-Stack Development ⚡ | Open-Source 🔥
 - **Languages :** Php, C, JavaScript
