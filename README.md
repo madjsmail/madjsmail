@@ -23,7 +23,7 @@ Apart from having the super-power of sitting on a desk and code for more than 24
 
 
 ## 👯 Communities
-- computer science student @ [UAMOB](https://www.univ-bouira.dz/fr/
+- computer science student @ [UAMOB](https://www.univ-bouira.dz/fr/)
 - web consultant at [Algerium](https://fb.com/algerium.dz) 
 
 
