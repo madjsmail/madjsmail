@@ -15,7 +15,7 @@ I am a 23 year old engineer from Algeria,  and I'm passionate about technology, 
 Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, nothing
 
 - 🔭 I’m currently working on **awalna**
-- 🌱 I’m currently learning  **bash, express & more javascript ** 
+- 🌱 I’m currently learning  **bash, express & more javascript** 
 - 😄 fun fact **I use Arch BTW**
 
 
