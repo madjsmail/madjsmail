@@ -16,7 +16,7 @@ Apart from having the super-power of sitting on a desk and code for more than 24
 
 - 🔭 I’m currently working on **awalna**
 - 🌱 I’m currently learning  **bash, express & more javascript** 
-- 😄 fun fact **I use Arch BTW**
+- 😄  **I use Arch BTW**
 
 
 
@@ -42,6 +42,6 @@ Talk to me about
 - Twitter - [@MadjSmail](https://twitter.com/MadjSmail)
 - Facebook - [abd el madjid smail](https://www.facebook.com/smailmadjid1998/)
 - LinkedIn - [Abd El Madjid Smail](https://www.linkedin.com/in/abd-el-madjid-smail-8b7a20168/)
-
+- Email -  madjidsmail1998@gmail.cm
 
 
