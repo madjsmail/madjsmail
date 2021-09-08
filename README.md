@@ -1,6 +1,9 @@
 ### Hi there 👋
+<!---
 <img src="https://images.unsplash.com/photo-1605514449459-5a9cfa0b9955?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1084&q=80" height=40% width=100%>
+--->
 
+<img src="https://api.daily.dev/devcards/81237e2390494264aabfc379ab58c425.png?r=8wo" width="400" alt="Madjid Smail's Dev Card"/>
 # Smail Abd EL Madjid 😃
 
 I am a 23 year old engineer from Algeria,  and I'm passionate about technology, communities, and everything in-between. I've worked a little on Web Development,  and Open Source. I love to learn and contribute in any and every possible way. 
