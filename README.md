@@ -4,7 +4,7 @@
 --->
 
 <img src="https://api.daily.dev/devcards/81237e2390494264aabfc379ab58c425.png?r=8wo" width="400" alt="Madjid Smail's Dev Card"/>
-# Smail Abd EL Madjid 😃
+## Smail Abd EL Madjid 😃
 
 I am a 23 year old engineer from Algeria,  and I'm passionate about technology, communities, and everything in-between. I've worked a little on Web Development,  and Open Source. I love to learn and contribute in any and every possible way. 
 
