@@ -39,6 +39,7 @@ Talk to me about
 - Front-end development using **Vue, VanillaJS**
 - Backend development using **PHP, Node, Express**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDb or firebase**
+ [![JavaScript_HTML_CSS_Python_NodeJS_MySQL_MongoDB_Express_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_NodeJS_MySQL_MongoDB_Express_)](https://pimp-my-readme.webapp.io)
 
   
 
