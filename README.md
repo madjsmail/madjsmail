@@ -7,7 +7,7 @@
 
 # Smail Abd EL Madjid 😃
 
-I am a 23 year old engineer from Algeria,  and I'm passionate about technology, communities, and everything in-between. I've worked a little on Web Development,  and Open Source. I love to learn and contribute in any and every possible way. 
+I am a {2023-1998} year old engineer from Algeria,  and I'm passionate about technology, communities, and everything in-between. I've worked a little on Web Development,  and Open Source. I love to learn and contribute in any and every possible way. 
 
 
 
