@@ -25,8 +25,7 @@ Apart from having the super-power of sitting on a desk and code for more than 24
 
 
 ## 👯 Communities
-- full time web developer @ [camio](https://camio.app/)
-- part time web developer @ [techmology](https://techmology-dz.com/) 
+- full time web developer @ [techmology](https://techmology-dz.com/) 
 - graduated computer science student @ [UAMOB](https://www.univ-bouira.dz/fr/)
 
 
@@ -46,6 +45,6 @@ Apart from having the super-power of sitting on a desk and code for more than 24
 ## 📫 Contact Me
 - Twitter - [@MadjSmail](https://twitter.com/MadjSmail)
 - Facebook - [abd el madjid smail](https://www.facebook.com/smailmadjid1998/)
-- LinkedIn - [Abd El Madjid Smail](https://www.linkedin.com/in/abd-el-madjid-smail-8b7a20168/)
-- Email -  madjidsmail1998@gmail.cm
+- LinkedIn - [Abd El Madjid Smail](linkedin.com/in/smailabdelmadjid/)
+- Email -  madjidsmail1998@gmail.com
 
