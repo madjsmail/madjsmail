@@ -17,7 +17,8 @@ I am an engineer from Algeria,  and I'm passionate about technology, communities
 
 ## 🧐 About
 Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, nothing
-- 🌱 I’m currently learning  **bash, express & more javascript** 
+- 🌱 I’m currently learning  **rust & more javascript** 
+- ⚒️ am working on an LMS platform and 3d javasciprt domino game
 - 😄  **I use Arch BTW**
 
 
