@@ -8,7 +8,7 @@ I am a Software Engineer from Algeria passionate about technology, open-source c
 - 🌱 I’m currently learning **Data Analysis** and advanced **JavaScript** concepts.
 - 👯 I’m looking to collaborate on **Open Source** projects.
 - 💬 Ask me about **Full Stack Development, NestJS, or Go**.
-- 😄 ~~ ___I use Arch BTW___ ~~ I USE FEDORA.
+- 😄 ~~___I use Arch BTW___~~ I USE FEDORA.
 
 
 ## 🎓 Education
